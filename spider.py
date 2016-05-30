@@ -15,6 +15,7 @@ class spider:
         self.page = None
         self.film_name = None
         self.hallName = None
+        
         self.price = None
         self.showTime = None
         self.rebateprice = None
