@@ -11,13 +11,12 @@ class spider:
         self.sum = 0
         self.header = header
         self.inputfilm = "魔兽"
-        self.url = None
+        self.url = None#adfdas
         self.page = None
         self.film_name = None
-        self.hallName = None
-        
+        self.hallName = None     
         self.price = None
-        self.showTime = None
+        self.showTime = None#李湘
         self.rebateprice = None
         self.mstring = None
         self.dicts = None
