@@ -130,6 +130,7 @@ if __name__ == '__main__':
     a = input("请输入类型！！")
     spider.inputleixing(a)
     print("开始查找.....")
+    print("right")
     for c in cinema:
         for i in date:
             url = ("http://www.wandafilm.com/trade/time.do?m=init&city_code=undefined&cinema_id=%s&day=2016_06_%s&rond=0.4841693847287514&_=1464070889825"%(str(c),str(i)))
