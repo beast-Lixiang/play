@@ -9,6 +9,8 @@ vim操作
 5 gg 跳转文件开头
 6 shift + g 跳转文件结尾
 
+7 ctrl + i 跳到光标前面
+8 ctrl + o 跳到光标后面
 
 
 ubuntu中的切换窗口
