@@ -1,0 +1,40 @@
+vim操作
+
+1 zo == open a fold 打开折叠
+2 zc == close a fold 关闭折叠
+
+3 zr 一次性打开所有折叠
+4 zm 一次性关闭所有折叠
+
+5 gg 跳转文件开头
+6 shift + g 跳转文件结尾
+
+7 ctrl + i 跳到光标前面
+8 ctrl + o 跳到光标后面
+
+
+ubuntu中的切换窗口
+
+1 alt + tab 切换窗口
+2 super + w 列表是窗口展现
+3 super + Launcher + 数字键切换 -->  出现在标有数字相应的窗口4 
+4 sudo pm-suspend 待机
+5 sudo pm-hibernate
+
+
+ubuntu 中关闭网页和窗口
+1 ctrl + w 和 ctrl + F4 关闭窗口和网页
+2 crtl + win + 上下左右方向键 调整方向键 -->  全屏
+3 F11 全屏
+4 alt + F4 强制关闭窗口
+
+
+
+chrome 浏览器切换操作
+
+1 ctrl + （umber键）一次切换标签
+2 ctrl + tab 依次切换网页
+3 ctrl + n 新建窗口
+4 ctrl + t 新建标签窗口
+5 ctrl + shift + t 打开上次网页
+6 ctrl + `（tab上边的键) 同一程序的的不同窗口
